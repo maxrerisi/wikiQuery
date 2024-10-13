@@ -1,0 +1,37 @@
+{
+    "Apple Inc.": {
+        "query": "Apple Inc.",
+        "Industry": "Consumer electronicsSoftware servicesOnline services",
+        "Website": "apple.com"
+    },
+    "Ford Motor Company": {
+        "query": "Ford Motor Company",
+        "Industry": "Automotive",
+        "Website": "ford.com"
+    },
+    "Amazon (company)": {
+        "query": "Amazon (company)",
+        "Industry": "Conglomerate",
+        "Website": "amazon.com"
+    },
+    "Google": {
+        "query": "Google",
+        "Industry": "InternetCloud computingComputer softwareComputer hardwareArtificial intelligenceAdvertising",
+        "Website": "about.google"
+    },
+    "Netflix, Inc.": {
+        "query": "Netflix, Inc.",
+        "Industry": "MediaEntertainment",
+        "Website": "Official website"
+    },
+    "Qualcomm": {
+        "query": "Qualcomm",
+        "Industry": "Telecoms equipmentsSemiconductors",
+        "Website": "qualcomm.com"
+    },
+    "Huawei": {
+        "query": "Huawei",
+        "Industry": "Consumer electronicsTelecom equipmentNetworking equipmentSemiconductorsArtificial intelligenceAutomationCloud computingInternet of things",
+        "Website": "www.huawei.com "
+    }
+}

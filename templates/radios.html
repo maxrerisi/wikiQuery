@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Hey</title>
+	</head>
+	<body>
+		<form method="POST">
+			<h3>Select an option:</h3>
+			{% for choice in radio_choices %}
+			<input
+				type="radio"
+				id="{{ choice }}"
+				name="radio_option"
+				value="{{ choice }}" />
+			<label for="{{ choice }}">{{ choice }}</label><br />
+			{% endfor %}
+			<br>
+			<button type="submit">Submit</button>
+
+			<br />
+		</form>
+	</body>
+</html>
